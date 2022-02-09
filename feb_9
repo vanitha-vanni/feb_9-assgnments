@@ -1,0 +1,15 @@
+a=input()
+b=input()
+
+#compare both the numbers
+
+if a>b:
+    
+     print('a is big number')
+
+else:
+    print('b is big number')
+    output:
+5
+7
+b is big number
